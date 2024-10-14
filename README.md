@@ -10,3 +10,4 @@ Developed high-quality iOS apps for thousands of users, focusing on performance 
 - email - infoiskandar@gmail.com,
 - telegram - https://t.me/zi_8621
 
+Portfolio:
