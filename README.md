@@ -20,7 +20,8 @@ Portfolio:
 
 ![About](https://raw.githubusercontent.com/indama/indama/refs/heads/main/3.jpg)
 
-	App: https://apps.apple.com/uz/app/paylov/id6444838542
+	App: 	App: <a href="https://apps.apple.com/uz/app/paylov/id6444838542" rel="nofollow">https://apps.apple.com/uz/app/paylov/id6444838542</a>
+
 	Website: www.paylov.uz
 	
 
