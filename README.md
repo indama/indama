@@ -12,4 +12,4 @@ Developed high-quality iOS apps for thousands of users, focusing on performance 
 
 Portfolio:
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![About](https://raw.githubusercontent.com/indama/indama/refs/heads/main/1.jpg)
