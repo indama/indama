@@ -11,3 +11,5 @@ Developed high-quality iOS apps for thousands of users, focusing on performance 
 - telegram - https://t.me/zi_8621
 
 Portfolio:
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
