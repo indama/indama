@@ -16,7 +16,8 @@ OBJECTIVE-C | DART | MVC | VIPER | Core Data & Core Animation | RX-SWIFT | UI/UX
 --- | --- | --- | --- |--- |--- | --- 
 Unit Testing & Test-Driven Development (TDD) | Problem-Solving & Debugging | Core Location & MapKit | Push Notifications | Dependency Managers  | Xcode | more ...
 
-**How to reach me**:
+ 
+## How to reach me
 - email - infoiskandar@gmail.com,
 - telegram - https://t.me/zi_8621
 
