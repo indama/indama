@@ -2,7 +2,7 @@
 
 
 A trusted mobile developer for your business needs.
-Developed high-quality iOS apps for thousands of users, focusing on performance and user experience.
+Developed high-quality Mobile Apps for thousands of users, focusing on performance and user experience.
 
 - 🌱 Knowledge of iOS and Flutter 
 
