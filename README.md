@@ -20,12 +20,13 @@ Portfolio:
 
 ![About](https://raw.githubusercontent.com/indama/indama/refs/heads/main/3.jpg)
 
-	App: 	https://apps.apple.com/uz/app/paylov/id6444838542
+	App: 	
 
 	Website: www.paylov.uz
 
- <a name="my-custom-anchor-point" href = "https://apps.apple.com/uz/app/paylov/id6444838542"></a>
-[A link to that custom anchor](#my-custom-anchor-point)
+ [Here is the App url](https://apps.apple.com/uz/app/paylov/id6444838542).
+ [Website: www.paylov.uz](https://www.paylov.uz).
+ 
 	
 
 ![About](https://raw.githubusercontent.com/indama/indama/refs/heads/main/4.jpg)
