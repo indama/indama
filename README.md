@@ -100,6 +100,7 @@ App: [Here is app url](https://apps.apple.com/uz/app/munir-app/id1628066586).
 - Progress Reports: Generate and view detailed reports on student performance, including grades, attendance, and behavioral notes.
 - Interactive Learning Tools: Provide students with interactive tools and resources for a more engaging learning experience.
 - Notifications and Alerts: Send timely notifications and alerts for upcoming deadlines, assignments, and school events.
+
 ![About](https://raw.githubusercontent.com/indama/indama/refs/heads/main/8.jpg)
 
 # Thank you 
