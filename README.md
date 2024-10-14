@@ -4,7 +4,7 @@
 A trusted mobile developer for your business needs.
 Developed high-quality iOS apps for thousands of users, focusing on performance and user experience.
 
-- 🌱 Knowledge of iOS, Flutter, Swift and Objective-C 
+- 🌱 Knowledge of iOS and Flutter 
 
 **How to reach me**:
 - email - infoiskandar@gmail.com,
