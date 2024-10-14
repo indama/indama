@@ -2,8 +2,7 @@
 
 
 A trusted developer for your business needs.
-
-Here are some ideas to get you started:
+Developed high-quality iOS apps for thousands of users, focusing on performance and user experience.
 
 - 🌱 Knowledge of iOS, Flutter, Swift and Objective-C 
 - 💬 Ask me about infoiskandar@gmail.com
