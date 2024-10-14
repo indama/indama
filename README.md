@@ -1,4 +1,4 @@
-## Hi there 👋. I'm Iskandar
+# Hi there 👋. I'm Iskandar
 
 
 A trusted mobile developer for your business needs.
@@ -20,9 +20,12 @@ Portfolio:
 
 ![About](https://raw.githubusercontent.com/indama/indama/refs/heads/main/3.jpg)
 
-	App: 	App: <a href="https://apps.apple.com/uz/app/paylov/id6444838542" rel="nofollow">https://apps.apple.com/uz/app/paylov/id6444838542</a>
+	App: 	https://apps.apple.com/uz/app/paylov/id6444838542
 
 	Website: www.paylov.uz
+
+ <a name="my-custom-anchor-point" href = "https://apps.apple.com/uz/app/paylov/id6444838542"></a>
+[A link to that custom anchor](#my-custom-anchor-point)
 	
 
 ![About](https://raw.githubusercontent.com/indama/indama/refs/heads/main/4.jpg)
