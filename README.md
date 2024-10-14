@@ -6,6 +6,16 @@ Developed high-quality Mobile Apps for thousands of users, focusing on performan
 
 - 🌱 Knowledge of iOS and Flutter 
 
+
+## SKILLS
+SWIFT | FLUTTER | MVVM | MVP | SOLID | APIs & Integrations | UIKit and SwiftUI 
+--- | --- | --- | --- |--- |--- | --- 
+Version Control | Concurrency | App Store Submission | Networking | In-App Purchases | OBJECTIVE-C | DART 
+--- | --- | --- | --- |--- |--- | --- 
+OBJECTIVE-C | DART | MVC | VIPER | Core Data & Core Animation | RX-SWIFT | UI/UX Design Principles 
+--- | --- | --- | --- |--- |--- | --- 
+Unit Testing & Test-Driven Development (TDD) | Problem-Solving & Debugging | Core Location & MapKit | Push Notifications | Dependency Managers  | Xcode | more ...
+
 **How to reach me**:
 - email - infoiskandar@gmail.com,
 - telegram - https://t.me/zi_8621
