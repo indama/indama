@@ -83,20 +83,7 @@ App: [Here is app url](https://apps.apple.com/uz/app/shipox-driver/id1493955323)
 
 ![About](https://raw.githubusercontent.com/indama/indama/refs/heads/main/6.jpg)
 
-# Huquq maktabi mobile  
-App: [Here is app url](https://apps.apple.com/uz/app/huquq-maktabi-mobile/id6544800269).
 
-### Key Features:
-- Course Management: Create, manage, and organize courses and class schedules, including assignments, exams, and projects.
-- Student Profiles: Maintain detailed profiles for each student, including academic performance, attendance records, and personal information.
-- Assignments and Grades: Assign and track homework, projects, and exams, and provide grades and feedback to students.
-- Classroom Communication: Facilitate communication between teachers, students, and parents through messaging and announcements.
-- Attendance Tracking: Record and monitor student attendance with easy-to-use tools for managing absences and tardiness.
-- Progress Reports: Generate and view detailed reports on student performance, including grades, attendance, and behavioral notes.
-- Interactive Learning Tools: Provide students with interactive tools and resources for a more engaging learning experience.
-- Notifications and Alerts: Send timely notifications and alerts for upcoming deadlines, assignments, and school events.
-
-![About](https://raw.githubusercontent.com/indama/indama/refs/heads/main/7.jpg)
 
 # Munir app reader  
 Website: [www.munir.com](https://www.munir.uz).
