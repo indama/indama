@@ -86,7 +86,7 @@ App: [Here is app url](https://apps.apple.com/uz/app/shipox-driver/id1493955323)
 
 
 # Munir app reader  
-Website: [www.munir.com](https://www.munir.uz).
+Website: [www.munir.com](https://munir.uz/).
 App: [Here is app url](https://apps.apple.com/uz/app/munir-app/id1628066586).
 
 ### Key Features:
